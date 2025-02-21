@@ -20,13 +20,16 @@ A cross-platform news app built using **Kotlin Multiplatform (KMP)** that fetche
 - **Room Database** – Local data storage and caching  
 - **DataStore Preferences** – For saving user settings  
 
-## 📱 Screenshots
+## 📱 Samples
 
 https://github.com/user-attachments/assets/f9299361-a3a6-4b26-8a58-b216bf76e4c1
 
+
+https://github.com/user-attachments/assets/45f4e1e3-65a9-458e-a3c6-90de27c86972
+
 ## 🔧 Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/news-app.git
-   cd news-app
+1. **Clone the repository**
+2. **Insert the Api Key**
+   
+   
